@@ -10,6 +10,12 @@
     "format": "biome format --write"
   },
   "dependencies": {
+    "@tiptap/extension-file-handler": "^3.22.4",
+    "@tiptap/extension-heading": "^3.22.4",
+    "@tiptap/extension-image": "^3.22.4",
+    "@tiptap/extension-list": "^3.22.4",
+    "@tiptap/extension-table": "^3.22.4",
+    "@tiptap/extensions": "^3.22.4",
     "@tiptap/pm": "^3.22.3",
     "@tiptap/react": "^3.22.3",
     "@tiptap/starter-kit": "^3.22.3",
